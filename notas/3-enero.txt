@@ -1,0 +1,4 @@
+8 enero
+La parte que calcula el where se ejecuta antes de cualquier calculo. 
+SUBQUERYS
+Para generar un subquery lo colocamos entre parentesis.
