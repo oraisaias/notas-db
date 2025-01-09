@@ -2,3 +2,12 @@
 La parte que calcula el where se ejecuta antes de cualquier calculo. 
 SUBQUERYS
 Para generar un subquery lo colocamos entre parentesis.
+
+Renombrar columnas con "AS"
+
+UNION
+
+Es usado para combinar dos resultados de SELECT
+
+dame un e
+
